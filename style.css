@@ -14,6 +14,8 @@
   --ff-primary: "Open Sans", sans-serif;
   --ff-secondary: "Poppins", sans-serif;
 }
+
+/* ****** */
 /* 
     UTILITY CLASSES
 */
@@ -24,6 +26,8 @@
 .fw-600 {
   font-weight: 600;
 }
+
+/* *** */
 body {
   background: var(--violet) url("images/bg-desktop.svg");
   font-family: var(--ff-primary);
